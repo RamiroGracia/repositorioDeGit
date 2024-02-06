@@ -3,3 +3,5 @@ leche:10
 arroz:5
 carne vacuna:2
 helado:9
+lechuga:6
+galletitas:3
