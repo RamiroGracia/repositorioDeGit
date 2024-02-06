@@ -1,0 +1,4 @@
+helado:4
+leche:10
+arroz:5
+carne vacuna:2
